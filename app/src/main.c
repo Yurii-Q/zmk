@@ -3,6 +3,7 @@
  *
  * SPDX-License-Identifier: MIT
  */
+#define VIAL_KEYBOARD_UID {0xF1, 0xB3, 0x4C, 0x68, 0x6C, 0x25, 0xF1, 0x53}
 
 #include <zephyr/kernel.h>
 #include <zephyr/device.h>
